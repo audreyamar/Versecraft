@@ -1,4 +1,4 @@
-# ethic-ia-project
+# VerseCraft
 
 Python project to train the model and expose the model through http.
 
